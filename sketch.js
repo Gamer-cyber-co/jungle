@@ -25,7 +25,7 @@ function preload(){
   deers = loadSound("bgm/deer.mp3")
 }
 function setup(){
- can = createCanvas(1165,530)
+ can = createCanvas(displayWidth-20,displayHeight-30)
 
     bgm.loop()
 
