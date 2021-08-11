@@ -1,7 +1,7 @@
 
 var player, pname,animals
 var lifeShow, bg
-var gameState = 1
+var gameState = 0
 var tm = -10
 var cofl = 10000
 var lifeCount = 200
